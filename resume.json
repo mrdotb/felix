@@ -5,8 +5,7 @@
     "label": "Developer Backend",
     "picture": "https://scontent-cdg2-1.xx.fbcdn.net/v/t1.6435-1/36701810_10156543792554228_431253611742232576_n.jpg?stp=dst-jpg_p100x100&_nc_cat=104&ccb=1-7&_nc_sid=7206a8&_nc_ohc=5aF8vb928CsAX_YSlcc&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent-cdg2-1.xx&oh=00_AfCO8rvX1TG7Enzjx7QHP7D5Gi1Kgaez0Cm2mNvBfCI7Cg&oe=64199787",
     "email": "felixedme@hotmail.fr",
-    "phone": "0667883325",
-    "url": "https://mrdotb.com",
+    "phone": "0749574176",
     "summary": "Je suis un développeur attentif aux détails et passionné. J'ai une expérience significative dans la création de backend pour des applications mobiles et j'ai conçu et développé plusieurs applications en utilisant divers outils et services de programmation tels que TypeScript, Express, MongoDB, Serverless et AWS. J'ai travaillé sur des projets comprenant des algorithmes de correspondance personnalisés, des bases de données et des API pour créer des plateformes pour les utilisateurs. Avec mon expertise dans plusieurs langages, je suis capable de m'adapter rapidement à de nouveaux projets et d'apporter des solutions pratiques pour les utilisateurs.",
     "location": {
       "countryCode": "FR",
@@ -33,25 +32,25 @@
       "endDate": "2023-02-01",
       "highlights": [
         "Algorithme de correspondance",
-        "Rich dashboard for shop owner in Liveview (stats, accouting ...)",
-        "Eshop solution",
-        "Follow the official French certification for cashier system (data chaining, system ...)"
+        "Gestion de plusieurs timezone",
+        "Mapping utilisateur"
       ],
       "summary": "Mise en relation des entreprises de déménagement avec les manutentionnaires sectoriels aux Etat–Unis.",
       "url": "https://moverupp.com",
       "location": "Floride - Miami"
     },
     {
-      "company": "Upintown",
-      "position": "Freelance Backend Elixir Developer",
-      "startDate": "2021-03-01",
-      "endDate": "2021-04-01",
+      "company": "Hatis",
+      "position": "Python Backend Developer",
+      "startDate": "2021-10-01",
+      "endDate": "2022-03-01",
       "highlights": [
-        "Adding new ressources on a Graphql Api build with Phoenix Abstinthe"
+        "Data visualization et data mining",
+        "Managing big database"
       ],
-      "summary": "Discover all the exhibitions in Paris and let yourself be inspired",
+      "summary": "Développement de logiciels de stratégies électorales.",
       "url": "https://pablo-app.com/fr",
-      "location": "Remote"
+      "location": "Paris"
     }
   ],
   "education": [
@@ -69,22 +68,17 @@
     {
       "name": "DEVELOPMENT",
       "level": "",
-      "keywords": ["node.js", "python", "php", "C"]
+      "keywords": ["node.js", "python", "flutter", "C"]
     },
     {
       "name": "OPS",
       "level": "",
-      "keywords": ["ubuntu", "docker", "ansible", "aws", "gcloud", "vps"]
+      "keywords": ["ubuntu", "sql", "MongoDB", "aws", "docker"]
     },
     {
       "name": "CODING",
       "level": "",
-      "keywords": ["vim", "zsh", "tmux"]
-    },
-    {
-      "name": "CMD",
-      "level": "",
-      "keywords": ["ffmpeg", "magick"]
+      "keywords": ["VS Code", "zsh"]
     }
   ],
   "languages": [
